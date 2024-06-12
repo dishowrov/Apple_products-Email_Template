@@ -4,3 +4,32 @@
   outline: none;
   box-sizing: border-box;
 }
+
+body {
+  background-color: #F4F4F4;
+}
+
+header {
+  background-color: #fff;
+  max-width: 565px;
+  margin: 33px auto;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+
+main {
+  max-width: 565px;
+  margin: auto;
+}
+main section.hero {
+  background-color: #fff;
+  margin-bottom: 33px;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
