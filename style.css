@@ -117,6 +117,9 @@ main section.hero a:nth-of-type(2):hover {
   background-color: transparent;
   color: #1890FF;
 }
+main section.hero img {
+  width: 100%;
+}
 main section.related-products {
   padding: 45px 65px;
   display: grid;
@@ -132,6 +135,9 @@ main section.related-products > a {
 main section.related-products > a:hover {
   text-decoration: underline;
   color: #0C1014;
+}
+main section.related-products > div img {
+  width: 100%;
 }
 main section.related-products > div p {
   color: #515759;

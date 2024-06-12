@@ -128,6 +128,11 @@ main {
                 }
             }
         }
+
+        img {
+            width: 100%;
+        }
+
     }
 
     section.related-products {
@@ -149,6 +154,10 @@ main {
         }
 
         >div {
+
+            img {
+                width: 100%;
+            }
 
             p {
                 color: #515759;
